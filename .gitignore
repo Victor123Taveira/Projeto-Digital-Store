@@ -22,3 +22,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Vite cache
+.vite/
+
+# Variáveis de ambiente do Vite
+.env
+.env.local
+.env.*.local
+
+# TypeScript build info (se usar TS)
+*.tsbuildinfo
+
+# Cobertura de testes (se usar tests com coverage)
+coverage/
