@@ -1,0 +1,23 @@
+.section {
+    margin: 2rem 0;
+  }
+  
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .section-header.left {
+    justify-content: flex-start;
+    gap: 2rem;
+  }
+  
+  .section-header h2 {
+    font-size: 1.8rem;
+  }
+  
+  .section-content {
+    margin-top: 1rem;
+  }
+  

@@ -1,0 +1,23 @@
+.product-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .discount {
+    color: red;
+    font-weight: bold;
+    margin-right: 0.5rem;
+  }
+  
+  .original {
+    text-decoration: line-through;
+    color: #999;
+  }
+  
